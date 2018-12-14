@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/simple_audio_c99.dir/main.c.o CMakeFiles/simple_audio_c99.dir/err.c.o CMakeFiles/simple_audio_c99.dir/load.c.o CMakeFiles/simple_audio_c99.dir/play.c.o  -o simple_audio_c99 -lavutil -lavcodec -lavformat -lavresample -lao 

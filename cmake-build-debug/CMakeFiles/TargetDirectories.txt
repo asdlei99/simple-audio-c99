@@ -1,0 +1,3 @@
+/home/jack/simple-audio-c99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jack/simple-audio-c99/cmake-build-debug/CMakeFiles/simple_audio_c99.dir
+/home/jack/simple-audio-c99/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/simple-audio-c99/err.h
+
+/home/jack/simple-audio-c99/load.h
+libavutil/avutil.h
+-
+libavcodec/avcodec.h
+-
+libavformat/avformat.h
+-
+
+/home/jack/simple-audio-c99/main.c
+stdio.h
+-
+stdlib.h
+-
+err.h
+/home/jack/simple-audio-c99/err.h
+load.h
+/home/jack/simple-audio-c99/load.h
+play.h
+/home/jack/simple-audio-c99/play.h
+
+/home/jack/simple-audio-c99/play.h
+load.h
+/home/jack/simple-audio-c99/load.h
+
