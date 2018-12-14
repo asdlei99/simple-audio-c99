@@ -13,7 +13,7 @@ Designed to work with Linux.
 This program requires libao and either libav or FFMpeg to be installed on your machine.
 Installation instructions for these dependencies can be found on their respective websites.
 On Ubuntu this step is simple:  
-`$ sudo apt install libavutil libavcodec libavformat libavresample`
+`$ sudo apt install libao-dev libavutil-dev libavcodec-dev libavformat-dev libavresample-dev`
 
 ## Usage
 `$ ./simple-audio-c99 <file>`
