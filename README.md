@@ -6,7 +6,7 @@ Designed to work with Linux.
 ## Features
  * Should work on Windows, Mac OS and Linux.
  * Compatable with all FFmpeg supported file formats.
- * Single file written completely in C99.
+ * Simple files with many comments written entirely in C99.
  * Easy to use CLI interface.
 
 ## Installation
