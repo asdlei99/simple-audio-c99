@@ -22,7 +22,7 @@ Test with the included WAV file:
 `$ ./simple-audio-c99 windows98start.wav`
 
 ## Authors
-Jack MacDougall ([jackmacdougall.com](https://jackmacdougall.com/))
+Jack MacDougall ([jackm.xyz](https://jackm.xyz/))
 
 ## License
 This project is licensed under [MIT](LICENSE).
